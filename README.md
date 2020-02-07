@@ -1,3 +1,3 @@
 # GeoTesting
 
-Switched to perforce to continue project.
+Switched to perforce for version control for this project.
